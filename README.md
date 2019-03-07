@@ -16,7 +16,7 @@
 5. Referencias.	<br/>
 
 
-<title> 1. Introducción.<title/>
+1. Introducción. <br/>
 
 La documentación de este proyecto incluye cómo usar el proyecto y lo necesario para entender el desarrollo del mismo.
 
@@ -42,7 +42,7 @@ Además, el movimiento de la serpiente se basa en lo que el usuario decide, es d
 2.1 Tecnología y entorno de desarrollo. <br/>
 El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando el lenguaje de programación orientado a objetos Java, haciendo uso de clases y objetos.
 
-2.2 Requisitos funcionales.
+2.2 Requisitos funcionales. <br/>
 	El videojuego tendrá un menú que incluirá distintas opciones, entre las cuales están: el comenzar una partida, seleccionar el nivel de dificultad, las instrucciones y por último, la posibilidad de salir del juego.
 Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
 El jugador podrá controlar la dirección de la serpiente con las teclas “A”,”S”,”D” y ”W”. De manera intuitiva la tecla A será para la izquierda, la S para abajo, la D para la derecha y por último, la D hacia arriba. (o con las teclas de dirección del teclado)
@@ -57,4 +57,5 @@ La serpiente debe poder moverse por toda la pantalla.
 No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, el juego termina y se mostrará en la pantalla “Game Over”. 
 Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que se choque consigo misma.
 La serpiente estará en constante movimiento.
-2.3 Requisitos no funcionales.
+
+2.3 Requisitos no funcionales. <br/>
