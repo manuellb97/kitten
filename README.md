@@ -20,7 +20,7 @@
 
 La documentación de este proyecto incluye cómo usar el proyecto y lo necesario para entender el desarrollo del mismo.
 
-1.1 Objetivo. <br/>
+1.1. Objetivo. <br/>
 
 Este documento constará de la información y los procedimientos necesarios a seguir para desarrollar el famoso videojuego retro Snake (de un solo jugador).
 El jugador será una serpiente cuyo objetivo es sobrevivir comiendo manzanas sin chocarse con las paredes o comerse su propia cola, ya que esto provocará que muera y por lo tanto, se reinicie el juego. 
@@ -31,18 +31,18 @@ Además, el movimiento de la serpiente se basa en lo que el usuario decide, es d
 
 
 
-1.2 Scope of Project.<br/>
+1.2. Scope of Project.<br/>
 
-1.3 Referencias. <br/>
+1.3. Referencias. <br/>
 
-1.5 Visión general del documento. <br/>
+1.5. Visión general del documento. <br/>
 
 2. Descripción del diseño.<br/>
 
-2.1 Tecnología y entorno de desarrollo. <br/>
+2.1. Tecnología y entorno de desarrollo. <br/>
 El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando el lenguaje de programación orientado a objetos Java, haciendo uso de clases y objetos.
 
-2.2 Requisitos funcionales. <br/>
+2.2. Requisitos funcionales. <br/>
 	El videojuego tendrá un menú que incluirá distintas opciones, entre las cuales están: el comenzar una partida, seleccionar el nivel de dificultad, las instrucciones y por último, la posibilidad de salir del juego.
 Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
 El jugador podrá controlar la dirección de la serpiente con las teclas “A”,”S”,”D” y ”W”. De manera intuitiva la tecla A será para la izquierda, la S para abajo, la D para la derecha y por último, la D hacia arriba. (o con las teclas de dirección del teclado)
@@ -58,4 +58,4 @@ No existen las vidas, por lo que en cuanto la serpiente se choque con un obstác
 Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que se choque consigo misma.
 La serpiente estará en constante movimiento.
 
-2.3 Requisitos no funcionales. <br/>
+2.3. Requisitos no funcionales. <br/>
