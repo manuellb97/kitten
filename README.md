@@ -55,8 +55,8 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	9. Habrá varios tipos de fruta, no solo una.
 	10. Acerca del movimiento de la serpiente tendremos varios requisitos funcionales: 
 		1. La serpiente debe poder moverse por toda la pantalla.
-		2. No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, el 		juego termina y se mostrará en la pantalla “Game Over”. 
-		3. Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que 		    se choque consigo misma.
+		2. No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, eljuego termina y se mostrará en la pantalla “Game Over”. 
+		3. Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que se choque consigo misma.
 		4.La serpiente estará en constante movimiento.
 
 2.3. Requisitos no funcionales. <br/>
