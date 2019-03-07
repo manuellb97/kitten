@@ -43,19 +43,20 @@ Además, el movimiento de la serpiente se basa en lo que el usuario decide, es d
 El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando el lenguaje de programación orientado a objetos Java, haciendo uso de clases y objetos.
 
 2.2. Requisitos funcionales. <br/>
-	El videojuego tendrá un menú que incluirá distintas opciones, entre las cuales están: el comenzar una partida, seleccionar el nivel de dificultad, las instrucciones y por último, la posibilidad de salir del juego.
-Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
-El jugador podrá controlar la dirección de la serpiente con las teclas “A”,”S”,”D” y ”W”. De manera intuitiva la tecla A será para la izquierda, la S para abajo, la D para la derecha y por último, la D hacia arriba. (o con las teclas de dirección del teclado)
-Existirá la posibilidad de parar el juego y ver el menú al pulsar la tecla “ESC”. La única diferencia al menú principal es que este tendrá la posibilidad de reanudar el juego. y no tendrá la posibilidad de cambiar la dificultad.
-El juego tendrá sonido, el cual podrá ser muteado gracias a un icono en la esquina superior derecha.
-El juego contará con varios niveles, los cuales se irán superando al llegar a la puntuación necesaria.
-Cada dos niveles la velocidad de la serpiente incrementará. ¿bonus?
-Se generará una fruta en una posición aleatoria del mapa.
-Habrá varios tipos de fruta, no solo una.
-Acerca del movimiento de la serpiente tendremos varios requisitos funcionales: 
-La serpiente debe poder moverse por toda la pantalla.
-No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, el juego termina y se mostrará en la pantalla “Game Over”. 
-Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que se choque consigo misma.
-La serpiente estará en constante movimiento.
+
+	1. El videojuego tendrá un menú que incluirá distintas opciones, entre las cuales están: el comenzar una partida, seleccionar el nivel de dificultad, las instrucciones y por último, la posibilidad de salir del juego.
+	2. Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
+	3. El jugador podrá controlar la dirección de la serpiente con las teclas “A”,”S”,”D” y ”W”. De manera intuitiva la tecla A será para la izquierda, la S para abajo, la D para la derecha y por último, la D hacia arriba. (o con las teclas de dirección del teclado)
+	4. Existirá la posibilidad de parar el juego y ver el menú al pulsar la tecla “ESC”. La única diferencia al menú principal es que este tendrá la posibilidad de reanudar el juego. y no tendrá la posibilidad de cambiar la dificultad.
+	5. El juego tendrá sonido, el cual podrá ser muteado gracias a un icono en la esquina superior derecha.
+	6. El juego contará con varios niveles, los cuales se irán superando al llegar a la puntuación necesaria.
+	7. Cada dos niveles la velocidad de la serpiente incrementará. ¿bonus?
+	8. Se generará una fruta en una posición aleatoria del mapa.
+	9. Habrá varios tipos de fruta, no solo una.
+	10. Acerca del movimiento de la serpiente tendremos varios requisitos funcionales: 
+		1. La serpiente debe poder moverse por toda la pantalla.
+		2. No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, el 		juego termina y se mostrará en la pantalla “Game Over”. 
+		3. Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que 		    se choque consigo misma.
+		4.La serpiente estará en constante movimiento.
 
 2.3. Requisitos no funcionales. <br/>
