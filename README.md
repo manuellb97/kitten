@@ -63,6 +63,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 2.3. Requisitos no funcionales. <br/>
 
-Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
-La interfaz fácil de usar y la respuesta rápida.
-
+	1. El protagonista del videojuego será una serpiente.
+	2. Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
+	3. La interfaz fácil de usar y la respuesta rápida.
+	4. 
