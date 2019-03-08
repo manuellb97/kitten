@@ -33,6 +33,8 @@ Además, el movimiento de la serpiente se basa en lo que el usuario decide, es d
 
 1.2. Scope of Project.<br/>
 
+El trabajo principal es escribir un juego de serpiente usando la programación de java. Este juego generará diversos problemas relacionados con las matemáticas. El jugador tiene que responder las preguntas controlando una serpiente con las teclas del teclado para comer la manzana de respuesta. Cada manzana de respuesta correcta que se come prolonga la vida de la serpiente.
+
 1.3. Referencias. <br/>
 
 1.5. Visión general del documento. <br/>
@@ -60,3 +62,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 		4.La serpiente estará en constante movimiento.
 
 2.3. Requisitos no funcionales. <br/>
+
+Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
+La interfaz fácil de usar y la respuesta rápida.
+
