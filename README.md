@@ -25,19 +25,22 @@ La documentación de este proyecto incluye cómo usar el proyecto y lo necesario
 Este documento constará de la información y los procedimientos necesarios a seguir para desarrollar el famoso videojuego retro Snake (de un solo jugador).
 El jugador será una serpiente cuyo objetivo es sobrevivir comiendo manzanas sin chocarse con las paredes o comerse su propia cola, ya que esto provocará que muera y por lo tanto, se reinicie el juego. 
 
+1.2 Información <br/>
+
 La serpiente estará compuesta por la cabeza y el cuerpo; en el momento que la serpiente se encuentre con una fruta y la “coma", este crecerá y el jugador ganará x puntos. Para llevar esto a cabo tendremos que saber cuándo la serpiente ha comido una fruta.
 La manera de saber esto consiste en que en el momento que la cabeza esté en la misma posición (x,y) que la fruta, consideraremos que la serpiente la ha comido. En este instante, la fruta desaparecerá, la serpiente crecerá y aparecerá una nueva fruta en una posición aleatoria del mapa.
 Además, el movimiento de la serpiente se basa en lo que el usuario decide, es decir, la serpiente se moverá en una dirección dada y cada dirección nueva hará que la cabeza gire seguida del cuerpo.
 
 
 
-1.2. Scope of Project.<br/>
+1.3. Scope of Project.<br/>
 
 El trabajo principal es escribir un juego de serpiente usando la programación de java. Este juego generará diversos problemas relacionados con las matemáticas. El jugador tiene que responder las preguntas controlando una serpiente con las teclas del teclado para comer la manzana de respuesta. Cada manzana de respuesta correcta que se come prolonga la vida de la serpiente.
 
-1.3. Referencias. <br/>
+1.4. Referencias. <br/>
 
-1.5. Visión general del documento. <br/>
+1.6. Visión general del documento. <br/>
+
 
 2. Descripción del diseño.<br/>
 
