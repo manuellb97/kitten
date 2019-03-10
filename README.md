@@ -88,29 +88,29 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
            El usuario puede escender o apagar el sonido durante el juego.
        Pre-Condición:
           Hacer click en el boton de sonido para escender o apagar.
-      Post-Condición:
+       Post-Condición:
           Despues de hacer click en el boton  el sonido estará escendido o apagado.
-      Descripcion:
+       Descripcion:
           Todos los jugadores pueden cambiar el sonido. 
 
  3.Caso de uso: Elegir nivel.<br/>
  
-     Actor: Usuario 
+      Actor: Usuario 
           El usuario podrá elegir el nivel a su propia decisión.<br/>
-    Pre-Condición:
+      Pre-Condición:
          El usuario elegirá el nivel por menú.<br/>
-    Post-Condición:
+      Post-Condición:
         El nivel asignará al usuario qué nivel elige el usuario.<br/>
-    Descripcion:
+      Descripcion:
         Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
   
 4.Caso de uso:Salir del juego <br/>
 
      Actor: Jugador 
         El jugador es capaz de terminar la aplicación.
-    Pre-Condición:
+     Pre-Condición:
         El jugador haga clic en la opción de salida.
-    Post-Condición:
+     Post-Condición:
         El juego terminará.
-    Descripcion:
+     Descripcion:
      Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
