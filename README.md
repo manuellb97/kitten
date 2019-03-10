@@ -74,43 +74,43 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 2.4. Especificacion de Requisitos Funcionales. <br/>
     1.Caso de uso: Inciar el juego <br/>
     
-       Actor: Usuario <br/>
-       Pre-Condición: <br/>
-          El usuario irá al menú principal para elegir el juego para comenzar.<br/>
-       Post-Condición: <br/>
-          Se iniciará el juego. <br/>
-       Descripcion: <br/>
-          El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego.<br/>
+       Actor: Usuario 
+       Pre-Condición: 
+          El usuario irá al menú principal para elegir el juego para comenzar.
+       Post-Condición:
+          Se iniciará el juego. 
+       Descripcion: 
+          El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego.
 
-  2.Caso de uso:Sonido escendido / apagado
+  2.Caso de uso:Sonido escendido / apagado.<br/>
 
- Actor :Usuario  <br/>
- El usuario puede escender o apagar el sonido durante el juego.<br/>
- Pre-Condición:<br/>
-  Hacer click en el boton de sonido para escender o apagar.<br/>
- Post-Condición:<br/>
-   Despues de hacer click en el boton  el sonido estará escendido o apagado.<br/>
- Descripcion:<br/>
-   Todos los jugadores pueden cambiar el sonido. <br/>
+       Actor :Usuario  
+           El usuario puede escender o apagar el sonido durante el juego.
+       Pre-Condición:
+          Hacer click en el boton de sonido para escender o apagar.
+      Post-Condición:
+          Despues de hacer click en el boton  el sonido estará escendido o apagado.
+      Descripcion:
+          Todos los jugadores pueden cambiar el sonido. 
 
- 3.Caso de uso: Elegir nivel
+ 3.Caso de uso: Elegir nivel.<br/>
  
- Actor: Usuario <br/>
- El usuario podrá elegir el nivel a su propia decisión.<br/>
- Pre-Condición:<br/>
-   El usuario elegirá el nivel por menú.<br/>
- Post-Condición:<br/>
-   El nivel asignará al usuario qué nivel elige el usuario.<br/>
- Descripcion:<br/>
-  Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.<br/>
+     Actor: Usuario 
+          El usuario podrá elegir el nivel a su propia decisión.<br/>
+    Pre-Condición:
+         El usuario elegirá el nivel por menú.<br/>
+    Post-Condición:
+        El nivel asignará al usuario qué nivel elige el usuario.<br/>
+    Descripcion:
+        Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
   
-4.Caso de uso:Salir del juego
+4.Caso de uso:Salir del juego <br/>
 
-Actor: Jugador <br/>
-El jugador es capaz de terminar la aplicación.<br/>
- Pre-Condición:<br/>
-El jugador haga clic en la opción de salida.<br/>
-Post-Condición:<br/>
-   El juego terminará.<br/>
- Descripcion:<br/>
-   Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.<br/>
+     Actor: Jugador 
+        El jugador es capaz de terminar la aplicación.
+    Pre-Condición:
+        El jugador haga clic en la opción de salida.
+    Post-Condición:
+        El juego terminará.
+    Descripcion:
+     Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
