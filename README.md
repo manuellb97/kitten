@@ -120,4 +120,5 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 <img width="576" alt="graph 1" src="https://user-images.githubusercontent.com/45390300/54086901-1f1cc500-434e-11e9-96ef-36629b297ad8.png">
 
-Start Game :
+Start Game :<br/>
+![GRAPH2](https://user-images.githubusercontent.com/45390300/54087122-2cd34a00-4350-11e9-8fba-5f3d084028a9.png)
