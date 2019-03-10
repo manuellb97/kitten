@@ -122,3 +122,5 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 Start Game :<br/>
 ![GRAPH2](https://user-images.githubusercontent.com/45390300/54087122-2cd34a00-4350-11e9-8fba-5f3d084028a9.png)
+
+choose livel :<br/>
