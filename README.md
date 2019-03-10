@@ -127,5 +127,6 @@ Choose Level :<br/>
 ![GRAPH2 (1)](https://user-images.githubusercontent.com/45390300/54087210-f6e29580-4350-11e9-9e72-4cb61155deef.png)
 
 Sound ON/OFF :<br/>
+![GRAPH2 (2)](https://user-images.githubusercontent.com/45390300/54087324-0ca48a80-4352-11e9-9521-fbd897400442.png)
 
 Exit Game:<br/>
