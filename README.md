@@ -9,6 +9,7 @@
   2.1 Tecnología y entorno de desarrollo. <br/>
   2.2 Requisitos funcionales.	<br/>
   2.3 Requisitos no funcionales.	<br/>
+  2.4 Especificaion de requisitos funcionales <br/>
 3. Modelo vista-controlador.	<br/>
   4. Arquitectura del sistema.	<br/>
   4.1 Componentes del juego.	<br/>
@@ -70,3 +71,42 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	2. Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
+2.4.Especificacion de Requisitos Funcionales. <br/>
+Caso de uso: inciar el juego
+ Actor: Usuario
+ Pre-Condición:
+   El usuario irá al menú principal para elegir el juego para comenzar.
+ Post-Condición:
+   Se iniciará el juego.
+ Descripcion:
+   El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego.
+
+Caso de uso:Sonido escendido / apagado
+ Actor :Usuario
+ El usuario puede escender o apagar el sonido durante el juego.
+ Pre-Condición:
+  Hacer click en el boton de sonido para escender o apagar.
+ Post-Condición:
+   Despues de hacer click en el boton  el sonido estará escendido o apagado.
+ Descripcion:
+   Todos los jugadores pueden cambiar el sonido. 
+
+Caso de uso: Elegir nivel
+ Actor: Usuario
+ El usuario podrá elegir el nivel a su propia decisión.
+ Pre-Condición:
+   El usuario elegirá el nivel por menú.
+ Post-Condición:
+   El nivel asignará al usuario qué nivel elige el usuario..
+ Descripcion:
+  Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
+  
+Caso de uso:Salir del juego
+Actor: Jugador
+El jugador es capaz de terminar la aplicación.
+ Pre-Condición:
+El jugador haga clic en la opción de salida.
+Post-Condición:
+   El juego terminará.
+ Descripcion:
+   Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
