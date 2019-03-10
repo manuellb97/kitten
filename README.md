@@ -9,7 +9,7 @@
   2.1 Tecnología y entorno de desarrollo. <br/>
   2.2 Requisitos funcionales.	<br/>
   2.3 Requisitos no funcionales.	<br/>
-  2.4 Especificaion de requisitos funcionales <br/>
+  2.4 Especificación de Requisitos Funcionales <br/>
 3. Modelo vista-controlador.	<br/>
   4. Arquitectura del sistema.	<br/>
   4.1 Componentes del juego.	<br/>
