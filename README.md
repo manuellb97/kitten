@@ -10,6 +10,7 @@
   2.2 Requisitos funcionales.	<br/>
   2.3 Requisitos no funcionales.	<br/>
   2.4 Especificación de Requisitos Funcionales <br/>
+  2.5 Diagramas de casos de uso .  <br/>
 3. Modelo vista-controlador.	<br/>
   4. Arquitectura del sistema.	<br/>
   4.1 Componentes del juego.	<br/>
