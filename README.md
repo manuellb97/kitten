@@ -116,5 +116,8 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
      Descripcion:
      Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
 
-2.5.Diagramas:<br/>
+2.5.Diagramas Casos de uso :<br/>
+
 <img width="576" alt="graph 1" src="https://user-images.githubusercontent.com/45390300/54086901-1f1cc500-434e-11e9-96ef-36629b297ad8.png">
+
+Start Game :
