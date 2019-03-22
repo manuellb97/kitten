@@ -73,11 +73,12 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	4. 
 2.4. Especificacion de Requisitos Funcionales. <br/>
 
-| caso de uso :Iniciar el juego |
-| ------------- |:-------------:| -----:|
-|       |  |  |
-|      |      |   |
-| |      |    |
+
+|Caso de uso  :iniciar el juego         |
+| ------------- |:-------------:             | 
+| pre-Condición |El usuario irá al menú principal para elegir el juego para comenzar. |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso.
     1.Caso de uso: Inciar el juego <br/>
