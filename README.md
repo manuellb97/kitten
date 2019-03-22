@@ -95,6 +95,16 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 | Post-Condición: | El nivel asignará al usuario qué nivel elige el usuario.                      |
 | Descripcion:    | Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario. |
 
+| 4. Caso de Uso  | Salir del juego                                                                                                                                                                             |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor           | Jugador .El jugador es capaz de terminar la aplicación.                                                                                                                                     |
+| Pre-Condición   | El jugador haga clic en la opción de salida.                                                                                                                                                |
+| Post-Condición: | El juego se terminará.                                                                                                                                                                      |
+| Descripcion:    | Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará. |
+
+
+
+
 
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. 
