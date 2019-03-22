@@ -118,8 +118,8 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 | Descripción                                | El usuario seleccionará la opción de iniciar el juego para poder comenzar a jugar.|
 | Pre-Condición			 	     | El usuario irá al menú principal para elegir el juego para comenzar.
 |
-| Post-Condición			 	     | El juego se iniciará.
-|
+| Post-Condición			 	     | El juego iniciará.
+
 
 | Flujo de datos                             | Información                           |
 |--------------------------------------------|---------------------------------------|
