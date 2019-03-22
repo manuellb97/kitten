@@ -74,7 +74,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 2.4. Especificacion de Requisitos Funcionales.
 
 	
-| 1.Caso de Uso   | Iniciar el juego                                                                                                 |
+| 1. Caso de Uso  | Iniciar el juego                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------|
 | Actor           | Usuario                                                                                                          |
 | Pre-Condición   | El usuario irá al menú principal para elegir el juego para comenzar.                                             |
