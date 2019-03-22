@@ -83,7 +83,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
        Descripcion: 
           El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego.
 
-  2.Caso de uso:Sonido escendido / apagado.<br/>
+  2.Caso de uso: Sonido escendido / apagado.<br/>
 
        Actor :Usuario  
            El usuario puede escender o apagar el sonido durante el juego.
@@ -105,7 +105,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
       Descripcion:
         Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
   
-4.Caso de uso:Salir del juego <br/>
+4.Caso de uso: Salir del juego <br/>
 
      Actor: Jugador 
         El jugador es capaz de terminar la aplicación.
