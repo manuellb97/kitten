@@ -72,6 +72,12 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
 2.4. Especificacion de Requisitos Funcionales. <br/>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso.
     1.Caso de uso: Inciar el juego <br/>
@@ -107,7 +113,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
         Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
   
 4.Caso de uso: Salir del juego <br/>
-
+ 
      Actor: Jugador 
         El jugador es capaz de terminar la aplicación.
      Pre-Condición:
