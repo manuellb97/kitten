@@ -108,6 +108,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. 
+	
 | Nombre del caso de uso                    | Iniciar el juego                                                                  |
 |-------------------------------------------|-----------------------------------------------------------------------------------|
 | Actor                                     | Usuario                                                                           |
