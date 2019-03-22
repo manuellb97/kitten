@@ -71,10 +71,10 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	2. Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
-2.4. Especificacion de Requisitos Funcionales. <br/>
+2.4. Especificacion de Requisitos Funcionales.
 
 2.5 Casos de uso. </br>
-	A continuación, se detallarán los siguientes casos de uso.
+	A continuación, se detallarán los siguientes casos de uso. <br/>
     1.Caso de uso: Inciar el juego <br/>
     
        Actor: Usuario 
