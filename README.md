@@ -81,12 +81,19 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 | Post-Condición: | Se iniciará el juego.                                                                                            |
 | Descripcion:    | El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego. |
 
-| 2. Caso de Uso  | Sonido escendido / apagado                                                |  |
-|-----------------|---------------------------------------------------------------------------|--|
-| Actor           | Usuario: El usuario puede escender o apagar el sonido durante el juego.   |  |
-| Pre-Condición   | Hacer click en el boton de sonido para escender o apagar.                 |  |
-| Post-Condición: | Despues de hacer click en el boton  el sonido estará escendido o apagado. |  |
-| Descripcion:    | Todos los jugadores pueden cambiar el sonido.                             |  |
+| 2. Caso de Uso  | Sonido escendido / apagado                                                   |
+|-----------------|----------------------------------------------------------------------------- |
+| Actor           | Usuario: El usuario puede escender o apagar el sonido durante el juego.      |
+| Pre-Condición   | Hacer click en el boton de sonido para escender o apagar.                    |
+| Post-Condición: | Despues de hacer click en el boton  el sonido estará escendido o apagado.    |
+| Descripcion:    | Todos los jugadores pueden cambiar el sonido.                                |
+| 3. Caso de Uso  | Elegir nivel                                                                  |
+|-----------------|-------------------------------------------------------------------------------|
+| Actor           | Usuario.El usuario podrá elegir el nivel a su propia decisión.                |
+| Pre-Condición   | El usuario elegirá el nivel por menú.                                         |
+| Post-Condición: | El nivel asignará al usuario qué nivel elige el usuario.                      |
+| Descripcion:    | Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario. |
+
 
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. 
