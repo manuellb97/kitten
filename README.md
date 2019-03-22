@@ -73,6 +73,11 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	4. 
 2.4. Especificacion de Requisitos Funcionales.
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+</br>
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. <br/>
     1.Caso de uso: Inciar el juego <br/>
