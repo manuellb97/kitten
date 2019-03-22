@@ -44,6 +44,22 @@ El trabajo principal es escribir un juego de serpiente usando la programación d
 
 
 2. Descripción del diseño.<br/>
+| Nombre Del Requisito | Descripción | Prioridad |
+|:--------------------:|-------------|:---------:|
+|    Menú principal    |             |    Must   |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
+|                      |             |           |
 
 2.1. Tecnología y entorno de desarrollo. <br/>
 El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando el lenguaje de programación orientado a objetos Java, haciendo uso de clases y objetos.
