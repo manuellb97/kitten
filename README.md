@@ -22,36 +22,36 @@
 
 La documentación de este proyecto incluye cómo usar el proyecto y lo necesario para entender el desarrollo del mismo.
 
-1.1. Objetivo. <br/>
+###### 1.1. Objetivo. <br/>
 
 Este documento constará de la información y los procedimientos necesarios a seguir para desarrollar el famoso videojuego retro Snake (de un solo jugador).
 El jugador será una serpiente cuyo objetivo es sobrevivir comiendo manzanas sin chocarse con las paredes o comerse su propia cola, ya que esto provocará que muera y por lo tanto, se reinicie el juego. 
 
-1.2 Información <br/>
+###### 1.2 Información <br/>
 
 La serpiente estará compuesta por la cabeza y el cuerpo; en el momento que la serpiente se encuentre con una fruta y la “coma", este crecerá y el jugador ganará x puntos. Para llevar esto a cabo tendremos que saber cuándo la serpiente ha comido una fruta.
 La manera de saber esto consiste en que en el momento que la cabeza esté en la misma posición (x,y) que la fruta, consideraremos que la serpiente la ha comido. En este instante, la fruta desaparecerá, la serpiente crecerá y aparecerá una nueva fruta en una posición aleatoria del mapa.
 Además, el movimiento de la serpiente se basa en lo que el usuario decide, es decir, la serpiente se moverá en una dirección dada y cada dirección nueva hará que la cabeza gire seguida del cuerpo.
 
 
-1.3. Scope of Project.<br/>
+###### 1.3. Scope of Project.<br/>
 
 El trabajo principal es escribir un juego de serpiente usando la programación de java. Este juego generará diversos problemas relacionados con las matemáticas. El jugador tiene que responder las preguntas controlando una serpiente con las teclas del teclado para comer la manzana de respuesta. Cada manzana de respuesta correcta que se come prolonga la vida de la serpiente.
 
-1.4. Referencias. <br/>
+###### 1.4. Referencias. <br/>
 
-1.6. Visión general del documento. <br/>
+###### 1.5. Visión general del documento. <br/>
 
 
-2. Descripción del diseño.<br/>
+## 2. Descripción del diseño.<br/>
 | Nombre Del Requisito | Descripción | Prioridad |
 |:--------------------:|-------------|:---------:|
 |    Menú principal    |             |    Must   |
 
-2.1. Tecnología y entorno de desarrollo. <br/>
+###### 2.1. Tecnología y entorno de desarrollo. <br/>
 El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando el lenguaje de programación orientado a objetos Java, haciendo uso de clases y objetos.
 
-2.2. Requisitos funcionales. <br/>
+###### 2.2. Requisitos funcionales. <br/>
 
 	1. El videojuego tendrá un menú que incluirá distintas opciones, entre las cuales están: el comenzar una partida, seleccionar el nivel de dificultad, las instrucciones y por último, la posibilidad de salir del juego.
 	2. Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
@@ -68,13 +68,13 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 		3. Cada vez que la serpiente coma una fruta crecerá haciéndose más larga e incrementando la posibilidad de que se choque consigo misma.
 		4.La serpiente estará en constante movimiento.
 
-2.3. Requisitos no funcionales. <br/>
+###### 2.3. Requisitos no funcionales. <br/>
 
 	1. El protagonista del videojuego será una serpiente.
 	2. Este sistema debería proporcionar la capacidad de operar en un compilador de java junto con la seguridad.
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
-2.4. Especificacion de Requisitos Funcionales.
+###### 2.4. Especificacion de Requisitos Funcionales.
 
 	
 | 1. Caso de Uso  | Iniciar el juego                                                                                                 |
@@ -109,7 +109,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 
 
-2.5 Casos de uso. </br>
+###### 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. 
 	
 | Nombre del caso de uso | Iniciar el juego                                                                   |
@@ -158,7 +158,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
      Descripcion:
      Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
 
-2.5.Diagramas Casos de uso :<br/>
+###### 2.5.Diagramas Casos de uso :<br/>
 
 <img width="576" alt="graph 1" src="https://user-images.githubusercontent.com/45390300/54086901-1f1cc500-434e-11e9-96ef-36629b297ad8.png">
 
