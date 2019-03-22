@@ -73,25 +73,18 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	4. 
 2.4. Especificacion de Requisitos Funcionales.
 
-|1 Caso de Uso :Iniciar el juego |                                                                                                                  |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Actor                         | Usuario                                                                                                          |
-| Pre-Condición                 | El usuario irá al menú principal para elegir el juego para comenzar.                                             |
-| Post-Condición:               | Se iniciará el juego.                                                                                            |
-| Descripcion:                  | El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego. |
+
 
 
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. <br/>
-    1.Caso de uso: Inciar el juego <br/>
-    
-       Actor: Usuario 
-       Pre-Condición: 
-          El usuario irá al menú principal para elegir el juego para comenzar.
-       Post-Condición:
-          Se iniciará el juego. 
-       Descripcion: 
-          El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego.
+ | 1.Caso de Uso   | Iniciar el juego                                                                                                 |
+|-----------------|------------------------------------------------------------------------------------------------------------------|
+| Actor           | Usuario                                                                                                          |
+| Pre-Condición   | El usuario irá al menú principal para elegir el juego para comenzar.                                             |
+| Post-Condición: | Se iniciará el juego.                                                                                            |
+| Descripcion:    | El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego. |
+
 
   2.Caso de uso: Sonido escendido / apagado.<br/>
 
