@@ -72,11 +72,13 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
 2.4. Especificacion de Requisitos Funcionales.
-
-| Command | Description |
+1.
+| Caso de uso| Iniciar el juego |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Actor  | Usuario |
+| Pre-Condición |El usuario irá al menú principal para elegir el juego para comenzar. |
+|  Post-Condición | Se iniciará el juego.  |
+| Descripcion | El usuario abre el menú principal y elige el nivel. Luego, haga clic en el botón de inicio y comenzará el juego. |
 </br>
 2.5 Casos de uso. </br>
 	A continuación, se detallarán los siguientes casos de uso. <br/>
