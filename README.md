@@ -1,10 +1,10 @@
 # Software Requirements Specification
 
 **1. Introducción.**	<br/> 
-  1.1 Objetivo.	<br/>
+ *1.1 Objetivo.	<br/>
   1.2 Scope of Project.	<br/>
   1.3 Referencias. 	<br/>
-  1.5 Visión general del documento.	<br/>
+  1.5 Visión general del documento.*	<br/>
 **2. Descripción del diseño.**	<br/>
   2.1 Tecnología y entorno de desarrollo. <br/>
   2.2 Resumen de requisitos funcionales.	<br/> 
