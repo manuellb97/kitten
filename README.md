@@ -87,6 +87,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 | Pre-Condición   | Hacer click en el boton de sonido para escender o apagar.                    |
 | Post-Condición: | Despues de hacer click en el boton  el sonido estará escendido o apagado.    |
 | Descripcion:    | Todos los jugadores pueden cambiar el sonido.                                |
+
 | 3. Caso de Uso  | Elegir nivel                                                                  |
 |-----------------|-------------------------------------------------------------------------------|
 | Actor           | Usuario.El usuario podrá elegir el nivel a su propia decisión.                |
