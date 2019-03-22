@@ -7,10 +7,10 @@
   1.5 Visión general del documento.	<br/>
 2. Descripción del diseño.	<br/>
   2.1 Tecnología y entorno de desarrollo. <br/>
-  2.2 Requisitos funcionales.	<br/>
+  2.2 Resumen de requisitos funcionales.	<br/>
   2.3 Requisitos no funcionales.	<br/>
   2.4 Especificación de Requisitos Funcionales <br/>
-  2.5 Diagramas de casos de uso .  <br/>
+  2.5 Casos de uso.  <br/>
 3. Modelo vista-controlador.	<br/>
   4. Arquitectura del sistema.	<br/>
   4.1 Componentes del juego.	<br/>
@@ -72,6 +72,8 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	3. La interfaz fácil de usar y la respuesta rápida.
 	4. 
 2.4. Especificacion de Requisitos Funcionales. <br/>
+2.5 Casos de uso. </br>
+	A continuación, se detallarán los siguientes casos de uso.
     1.Caso de uso: Inciar el juego <br/>
     
        Actor: Usuario 
