@@ -117,10 +117,12 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 |
 | Pre-Condición			 	     | El juego se iniciará.
 |
+
+Su flujo de datos: 
 | Flujo principal.                           | Información.                                                                      |
 | ------------------------------------------ | ---------------------------------------                                           |
 | El usuario irá al menú principal.          | El sistema muestra el menú principal.                                             |
-| El usuario seleccionará la opción "Start"  | El sistema empieza a correr el juego.                                             |
+| El usuario seleccionará la opción "Start".  | El sistema empieza a correr el juego.                                             |
 
 
   2.Caso de uso: Sonido escendido / apagado.<br/>
