@@ -86,7 +86,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
     
        Actor: Usuario 
        Pre-Condición: 
-          El usuario irá al menú principal.  para elegir el juego para comenzar.
+          El usuario irá al menú principal para elegir el juego para comenzar.
        Post-Condición:
           Se iniciará el juego. 
        Descripcion: 
@@ -106,18 +106,18 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
  3.Caso de uso: Elegir nivel.<br/>
  
       Actor: Usuario 
-          El usuario podrá elegir el nivel a su propia decisión.<br/>
+          El usuario podrá elegir el nivel a su propia decisión. <br/>
       Pre-Condición:
-         El usuario elegirá el nivel por menú.<br/>
+         El usuario elegirá el nivel por menú. <br/>
       Post-Condición:
-        El nivel asignará al usuario qué nivel elige el usuario.<br/>
+        El nivel asignará al usuario qué nivel elige el usuario. <br/>
       Descripcion:
         Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
   
 4.Caso de uso: Salir del juego <br/>
  
      Actor: Jugador 
-        El jugador es capaz de terminar la aplicación.
+        El jugador es capaz de terminar la aplicación.  
      Pre-Condición:
         El jugador haga clic en la opción de salida.
      Post-Condición:
