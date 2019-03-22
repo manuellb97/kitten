@@ -117,12 +117,10 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 |
 | Pre-Condición			 	     | El juego se iniciará.
 |
-
-Su flujo de datos: 
 | Flujo principal.                           | Información.                                                                      |
 | ------------------------------------------ | ---------------------------------------                                           |
 | El usuario irá al menú principal.          | El sistema muestra el menú principal.                                             |
-| El usuario seleccionará la opción "Start".  | El sistema empieza a correr el juego.                                             |
+| El usuario seleccionará la opción "Start"  | El sistema empieza a correr el juego.                                             |
 
 
   2.Caso de uso: Sonido escendido / apagado.<br/>
@@ -161,6 +159,15 @@ Su flujo de datos:
 2.5.Diagramas Casos de uso :<br/>
 
 <img width="576" alt="graph 1" src="https://user-images.githubusercontent.com/45390300/54086901-1f1cc500-434e-11e9-96ef-36629b297ad8.png">
+
+![Start Game](https://user-images.githubusercontent.com/48360327/54841924-c98ed380-4cd0-11e9-9eee-5ecd9f95313f.png)
+
+![Choose level](https://user-images.githubusercontent.com/48360327/54841860-9a786200-4cd0-11e9-954b-f5f61cfc16fd.png)
+
+![instructions](https://user-images.githubusercontent.com/48360327/54841898-b2e87c80-4cd0-11e9-9ead-976233ed4315.png)
+
+![Exit Game](https://user-images.githubusercontent.com/48360327/54841950-e1feee00-4cd0-11e9-8fa9-d8839d5fdc69.png)
+
 
 Start Game :<br/>
 ![GRAPH2](https://user-images.githubusercontent.com/45390300/54087122-2cd34a00-4350-11e9-8fba-5f3d084028a9.png)
