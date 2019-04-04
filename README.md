@@ -11,7 +11,8 @@
 	2. Resumen de requisitos funcionales.	<br/> 
 	3. Requisitos no funcionales.	<br/>
 	4. Especificación de Requisitos Funcionales <br/>
-	5. Diagramas de los casos de uso. <br/>	
+	5. Casos de uso. <br/>	
+	6. Diagramas de los casos de uso. <br/>	
 **3. Modelo vista-controlador.**	<br/>
 **4. Arquitectura del sistema.**	<br/>
 	1. Componentes del juego.	<br/>
@@ -42,7 +43,6 @@ El trabajo principal es escribir un juego de serpiente usando la programación d
 ## 4. Referencias. <br/>
 
 ## 5. Visión general del documento. <br/>
-
 
 # 2. Descripción del diseño.<br/>
 | Nombre Del Requisito | Descripción | Prioridad |
@@ -77,8 +77,10 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	4. 
 ## 4. Especificacion de Requisitos Funcionales.
 
+## 5. Casos de uso. <br/> 
+	A continuación, se detallarán distintos casos de uso como: Iniciar el juego, salir del juego o elegir nivel. 
 	
-| 1. Caso de Uso  | Iniciar el juego                                                                                                 |
+| 1. Caso de Uso  | **Iniciar el juego**                                                                                               |
 |-----------------|------------------------------------------------------------------------------------------------------------------|
 | Actor           | Usuario                                                                                                          |
 | Pre-Condición   | El usuario irá al menú principal para elegir el juego para comenzar.                                             |
@@ -87,31 +89,26 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 
 | 2. Caso de Uso  | Sonido escendido / apagado                                                   |
 |-----------------|----------------------------------------------------------------------------- |
-| Actor           | Usuario: El usuario puede escender o apagar el sonido durante el juego.      |
+| Actor           | Usuario: 								         |
+| Descripcion:    | El jugador puede encender o apagar el sonido durante el juego.               |
 | Pre-Condición   | Hacer click en el boton de sonido para escender o apagar.                    |
 | Post-Condición: | Despues de hacer click en el boton  el sonido estará escendido o apagado.    |
-| Descripcion:    | Todos los jugadores pueden cambiar el sonido.                                |
+
 
 | 3. Caso de Uso  | Elegir nivel                                                                  |
 |-----------------|-------------------------------------------------------------------------------|
-| Actor           | Usuario.El usuario podrá elegir el nivel a su propia decisión.                |
+| Actor           | Usuario: El usuario podrá elegir el nivel a su propia decisión.               |
+| Descripcion:    | Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario. |
 | Pre-Condición   | El usuario elegirá el nivel por menú.                                         |
 | Post-Condición: | El nivel asignará al usuario qué nivel elige el usuario.                      |
-| Descripcion:    | Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario. |
 
-| 4. Caso de Uso  | Salir del juego                                                                                                                                                                             |
+| 4. Caso de Uso  | Salir del juego                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Actor           | Jugador .El jugador es capaz de terminar la aplicación.  |                                                                                                                                   
+| Actor           | Jugador.							  | 
+| Descripcion:    | Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje preguntando si está seguro de querer salir, permitiendole seleccionar si o no; en el caso de que la opción seleccionada sea sí el juego terminará. |
 | Pre-Condición   | El jugador haga clic en la opción de salida.             |                                                                                                                                      
 | Post-Condición: | El juego se terminará.                                   |                                                                                                                                   
-| Descripcion:    | Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará. |
 
-
-
-
-
-## 5. Diagramas de casos de uso. <br/> 
-	A continuación, se detallarán los siguientes casos de uso. 
 	
 | Nombre del caso de uso | Iniciar el juego                                                                   |
 |------------------------|------------------------------------------------------------------------------------|
@@ -126,40 +123,7 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 | El usuario seleccionará la opción "Start". | El sistema correrá el juego.          |
 
 
-  2.Caso de uso: Sonido escendido / apagado.<br/>
-
-       Actor :Usuario  
-           El usuario puede escender o apagar el sonido durante el juego.
-       Pre-Condición:
-          Hacer click en el boton de sonido para escender o apagar.
-       Post-Condición:
-          Despues de hacer click en el boton  el sonido estará escendido o apagado.
-       Descripcion:
-          Todos los jugadores pueden cambiar el sonido. 
-
- 3.Caso de uso: Elegir nivel.<br/>
- 
-      Actor: Usuario 
-          El usuario podrá elegir el nivel a su propia decisión. <br/>
-      Pre-Condición:
-         El usuario elegirá el nivel por menú. <br/>
-      Post-Condición:
-        El nivel asignará al usuario qué nivel elige el usuario. <br/>
-      Descripcion:
-        Cuando el usuario haga clic en Elegir nivel, el nivel se asignará al usuario.
-  
-4.Caso de uso: Salir del juego <br/>
- 
-     Actor: Jugador 
-        El jugador es capaz de terminar la aplicación.  
-     Pre-Condición:
-        El jugador haga clic en la opción de salida.
-     Post-Condición:
-        El juego terminará.
-     Descripcion:
-     Cuando el jugador haga clic en el botón de nsalida después de hacer clic en el botón de salir, aparecerá el mensaje. Segura que quieres salir , haga clic en sí o no, y el juego terminará.
-
-### 2.5.Diagramas Casos de uso :<br/>
+## 6.Diagramas Casos de uso :<br/>
 
 <img width="576" alt="graph 1" src="https://user-images.githubusercontent.com/45390300/54086901-1f1cc500-434e-11e9-96ef-36629b297ad8.png">
 
