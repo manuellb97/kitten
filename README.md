@@ -58,11 +58,11 @@ El desarrollo del proyecto se ha llevado a cabo en Netbeans IDE 8.2 utilizando e
 	2. Al pulsar la tecla “Enter” en el menú el juego iniciará automáticamente.
 	3. El jugador podrá controlar la dirección de la serpiente con las teclas “A”,”S”,”D” y ”W”. De manera intuitiva la tecla A será para la izquierda, la S para abajo, la D para la derecha y por último, la D hacia arriba. (o con las teclas de dirección del teclado)
 	4. Existirá la posibilidad de parar el juego y ver el menú al pulsar la tecla “ESC”. La única diferencia al menú principal es que este tendrá la posibilidad de reanudar el juego. y no tendrá la posibilidad de cambiar la dificultad.
-	5. El juego tendrá sonido, el cual podrá ser muteado gracias a un icono en la esquina superior derecha.
-	6. El juego contará con varios niveles, los cuales se irán superando al llegar a la puntuación necesaria.
-	7. Cada dos niveles la velocidad de la serpiente incrementará. ¿bonus?
+	// 5. El juego tendrá sonido, el cual podrá ser muteado gracias a un icono en la esquina superior derecha.
+	// 6. El juego contará con varios niveles, los cuales se irán superando al llegar a la puntuación necesaria.
+	// 7. Cada dos niveles la velocidad de la serpiente incrementará. ¿bonus?
 	8. Se generará una fruta en una posición aleatoria del mapa.
-	9. Habrá varios tipos de fruta, no solo una.
+	// 9. Habrá varios tipos de fruta, no solo una.
 	10. Acerca del movimiento de la serpiente tendremos varios requisitos funcionales: 
 		1. La serpiente debe poder moverse por toda la pantalla.
 		2. No existen las vidas, por lo que en cuanto la serpiente se choque con un obstáculo o consigo misma, eljuego termina y se mostrará en la pantalla “Game Over”. 
