@@ -1,7 +1,7 @@
 # Software Requirements Specification
 
 **1. Introducción.**	<br/> 
-    1.1 Objetivo.	<br/>
+	1.1 Objetivo.	<br/>
     1.2 Scope of Project.	<br/>
     1.3 Referencias. 	<br/>
     1.5 Visión general del documento.	<br/>
